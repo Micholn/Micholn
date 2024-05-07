@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Micholn</h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micholn&label=Profile%20views&color=0e75b6&style=flat" alt="micholn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micholn" alt="micholn" /></a> </p>
 
+As a Software Engineer who primarily programs in [Node.js](https://nodejs.org/), I've worked a lot more than I can remember with [React](https://react.dev/), [Next](https://nextjs.org), [Gatsby.js](https://www.gatsbyjs.com) for frontend using [TypeScript](https://www.typescriptlang.org/). 
+
+I'm very sharp in Problem-Solving, Automation, Full-stack Development, Integration, Blockchain Development, containerization, Cross-Border compatibility, Unit Testing, Agile Methodology, Configuration Management, Component Testing, Performance Improvement, Continuous Integration. 
+- My obsession with problem solving arose from being a Computational Physicist 
+- I grasp things quickly and they stay with me forever
+- I'm a Hackathon Winner
+- I am extremely Node.js Crazy
+- I’m looking to collaborate on complex Node.js servers, Next.js, React.js, Python and Solidity projects
+- I’m a Coffee lover who adores recreational activities and am an extremely fast swimmer.
 - The English language cannot encompass the full complexity of my thoughts, reach me: [mdiagbare@gmail.com](mdiagbare@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
